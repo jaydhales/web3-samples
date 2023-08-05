@@ -1,0 +1,8 @@
+Write a script to interact with an Ethereum account on mainnet , return its balance and transaction count.
+
+Given the addresses below:
+0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85
+0xf4bfaf916a68b0fC859D63a319034C0f72A88a5C
+0x3b138FC7eC06B2A44565994CfDe5134A75915995
+
+write a script to determine the account type of the address.
